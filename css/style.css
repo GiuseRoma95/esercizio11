@@ -1,0 +1,13 @@
+/*#risultato {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  font-size: 800px;
+}*/
+
+#risultato {
+  background-image: url(/5.jpg);
+  background-size: cover;
+  height: 70vh;
+  width: 100%;
+}
